@@ -19,14 +19,10 @@ http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/60923.m3u8
 http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/60916.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SALV | TELE 1" tvg-logo="https://www.kartal24.com/dosyalar/2017/08/tele1.jpg" group-title="EL SALVADOR",SALV | TELE 1
 http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/60925.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SALV | TV GETSEMANI" tvg-logo="https://static-media.streema.com/media/cache/15/d5/15d5ed25da94f8635b64a09e5ec1b977.jpg" group-title="EL SALVADOR",SALV | TV GETSEMANI
-http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/60927.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SALV | TVM" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Televisi%C3%B3n-Miguele%C3%B1a-en-vivo-Online-218x150.png" group-title="EL SALVADOR",SALV | TVM
 http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/60914.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SALV | TVO CANAL 23" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/sv-tv-oriental-canal-23-8803.jpg" group-title="EL SALVADOR",SALV | TVO CANAL 23
 http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/60921.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SALV | CANAL 57" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/sv-rtv-canal-57-apopa-5214.jpg" group-title="EL SALVADOR",SALV | CANAL 57
-http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/60917.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SALV | WOW TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/ff8556d00486db576233d86dd2e52bef.png" group-title="EL SALVADOR",SALV | WOW TV
 http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/60918.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SALV | CANAL 2" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Canal-2-El-Salvador-en-vivo-Online.png" group-title="EL SALVADOR",SALV | CANAL 2
@@ -39,3 +35,187 @@ http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/62942.m3u8
 http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/62943.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SALV | LOCOMOTION" tvg-logo="https://i.pinimg.com/236x/2a/9a/5c/2a9a5ca8099fd3df3d31e0958e5b9d7e.jpg" group-title="EL SALVADOR",SALV | LOCOMOTION
 http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/62946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  ANIMAL PLANET" tvg-logo="https://www.newslinereport.com/online/nota_animal-planet-renueva-su-imagen-en-america-latina.jpg" group-title="PREMIUM HD",PREMIUM HD |  ANIMAL PLANET
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/14569.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  CINEMAX" tvg-logo="https://www.newslinereport.com/online/nota_nueva-franquicia-de-cinemax-se-posiciona-como-favorito.jpg" group-title="PREMIUM HD",PREMIUM HD |  CINEMAX
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/6942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  CINEMAX ACTION" tvg-logo="http://2.bp.blogspot.com/-2lKRdEbpSGA/Tt-6ByaZRKI/AAAAAAAACnA/6S9tZnA8Dvs/s1600/cinemax_hdtv.png" group-title="PREMIUM HD",PREMIUM HD |  CINEMAX ACTION
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/6943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  CNN EN ESPAÑOL" tvg-logo="https://www.latintrends.com/wp-content/uploads/2011/06/CNNLOGO-300x225.jpg" group-title="PREMIUM HD",PREMIUM HD |  CNN EN ESPAÑOL
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/6944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  DE PELICULA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6b/De_Pel%C3%ADcula.svg.png" group-title="PREMIUM HD",PREMIUM HD |  DE PELICULA
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/9299.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  DISCOVERY CIVILIZACION" tvg-logo="https://www.pngfind.com/pngs/m/431-4311117_discovery-civilization-discovery-channel-hd-png-download.png" group-title="PREMIUM HD",PREMIUM HD |  DISCOVERY CIVILIZACION
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/6946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  DISCOVERY SCIENCIE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Discovery_Science_Canada_2011.PNG" group-title="PREMIUM HD",PREMIUM HD |  DISCOVERY SCIENCIE
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/6947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  DISCOVERY TURBO" tvg-logo="https://pbs.twimg.com/profile_images/624351457152794624/kMnbxbEN_400x400.png" group-title="PREMIUM HD",PREMIUM HD |  DISCOVERY TURBO
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/6949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  ESTRELLA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Estrella_TV_-_2009_Logo.png/300px-Estrella_TV_-_2009_Logo.png" group-title="PREMIUM HD",PREMIUM HD |  ESTRELLA TV
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/6956.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  FOOD NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="PREMIUM HD",PREMIUM HD |  FOOD NETWORK
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/6957.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  FOX CINEMA" tvg-logo="https://i.pinimg.com/originals/f9/55/da/f955da50f5e90461617bc7b79ae39592.png" group-title="PREMIUM HD",PREMIUM HD |  FOX CINEMA
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/6962.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  FOX LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/FoxLife.png" group-title="PREMIUM HD",PREMIUM HD |  FOX LIFE
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/6965.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  GOLDEN" tvg-logo="https://pbs.twimg.com/profile_images/702722519300644866/K9f7nZnO_400x400.jpg" group-title="PREMIUM HD",PREMIUM HD |  GOLDEN
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/6974.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  GOLDEN PLUS" tvg-logo="https://i.imgur.com/4OtKo3s.png" group-title="PREMIUM HD",PREMIUM HD |  GOLDEN PLUS
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/6973.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  HISTORY 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="PREMIUM HD",PREMIUM HD |  HISTORY 2
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/6982.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  SHOWTIME BEYOND" tvg-logo="https://www.directhd.tv/wp-content/uploads/2018/09/Showtime-Beyond.jpg" group-title="PREMIUM HD",PREMIUM HD |  SHOWTIME BEYOND
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/7014.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  SYFY" tvg-logo="https://ems-media-prod.s3.amazonaws.com/styles/clio_aotw_ems_image_details_retina/s3/entry_attachments/image/39/21175/screenshot_2017-08-04_15.41.19_3.png" group-title="PREMIUM HD",PREMIUM HD |  SYFY
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/6992.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="PREMIUM HD",PREMIUM HD |  TLC
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/7011.m3u8
+#EXTINF:-1 tvg-id="aandemundo.mx" tvg-name="PREMIUM | A&E" tvg-logo="https://cdn.mitvstatic.com/channels/mx_a-e-mundo_m.png" group-title="PREMIUM SD",PREMIUM | A&E
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8355.m3u8
+#EXTINF:-1 tvg-id="amc.mx" tvg-name="PREMIUM | AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/AMC_logo_2016.png/320px-AMC_logo_2016.png" group-title="PREMIUM SD",PREMIUM | AMC
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8422.m3u8
+#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="PREMIUM | Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png" group-title="PREMIUM SD",PREMIUM | Animal Planet
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8370.m3u8
+#EXTINF:-1 tvg-id="axn.mx" tvg-name="PREMIUM | AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="PREMIUM SD",PREMIUM | AXN
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8421.m3u8
+#EXTINF:-1 tvg-id="cinelatino.mx" tvg-name="PREMIUM | Cine Latino" tvg-logo="https://i.pinimg.com/originals/e3/bf/9e/e3bf9e710a8fce309b6fa60dc6a7a8e9.png" group-title="PREMIUM SD",PREMIUM | Cine Latino
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/14273.m3u8
+#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="PREMIUM | Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/175px-CinecanalLA.png" group-title="PREMIUM SD",PREMIUM | Cinecanal
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8419.m3u8
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="PREMIUM | Cinemax" tvg-logo="https://dl.dropboxusercontent.com/s/73x470u8mvatm23/Cinemax.png" group-title="PREMIUM SD",PREMIUM | Cinemax
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8390.m3u8
+#EXTINF:-1 tvg-id="aymsports.mx" tvg-name="PREMIUM | CNN En Español" tvg-logo="https://i.dlpng.com/static/png/408162_preview.png" group-title="PREMIUM SD",PREMIUM | CNN En Español
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8368.m3u8
+#EXTINF:-1 tvg-id="cnn.mx" tvg-name="PREMIUM | CNN Internacional" tvg-logo="https://seeklogo.com/images/C/CNN_International-logo-32A54E6066-seeklogo.com.png" group-title="PREMIUM SD",PREMIUM | CNN Internacional
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8347.m3u8
+#EXTINF:-1 tvg-id="comedycentral.mx" tvg-name="PREMIUM | Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/200px-Comedy_Central_2018.svg.png" group-title="PREMIUM SD",PREMIUM | Comedy Central
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8418.m3u8
+#EXTINF:-1 tvg-id="depelicula.mx" tvg-name="PREMIUM | De Pelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="PREMIUM SD",PREMIUM | De Pelicula
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/9300.m3u8
+#EXTINF:-1 tvg-id="depeliculahd.mx" tvg-name="PREMIUM | De Pelicula Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="PREMIUM SD",PREMIUM | De Pelicula Plus
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/53842.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="PREMIUM | Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/320px-2019_Discovery_logo.svg.png" group-title="PREMIUM SD",PREMIUM | Discovery Channel
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8417.m3u8
+#EXTINF:-1 tvg-id="discoverycivilization.mx" tvg-name="PREMIUM | Discovery Civilization" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-civilization_m.png" group-title="PREMIUM SD",PREMIUM | Discovery Civilization
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8131.m3u8
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="PREMIUM | Discovery H&H" tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/h_h-logo-01.png" group-title="PREMIUM SD",PREMIUM | Discovery H&H
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8391.m3u8
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="PREMIUM | Discovery ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/120px-Investigation_Discovery_Logo_2018.svg.png" group-title="PREMIUM SD",PREMIUM | Discovery ID
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8416.m3u8
+#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="PREMIUM | Discovery Science" tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/0b42e-science.png" group-title="PREMIUM SD",PREMIUM | Discovery Science
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8414.m3u8
+#EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="PREMIUM | Discovery Theater" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/100px-2015_Discovery_theater_HD_logo.svg.png" group-title="PREMIUM SD",PREMIUM | Discovery Theater
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8413.m3u8
+#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="PREMIUM | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/150px-Discovery_Turbo_logo.svg.png" group-title="PREMIUM SD",PREMIUM | Discovery Turbo
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8412.m3u8
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="PREMIUM | Discovery World" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png" group-title="PREMIUM SD",PREMIUM | Discovery World
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8366.m3u8
+#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="PREMIUM | Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="PREMIUM SD",PREMIUM | Distrito Comedia
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8371.m3u8
+#EXTINF:-1 tvg-id="eentertainment.mx" tvg-name="PREMIUM | E! Entertaiment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/74px-E%21_Logo_2012.svg.png" group-title="PREMIUM SD",PREMIUM | E! Entertaiment
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8410.m3u8
+#EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="PREMIUM | El Gourmet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="PREMIUM SD",PREMIUM | El Gourmet
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8365.m3u8
+#EXTINF:-1 tvg-id="europaeuropa.mx" tvg-name="PREMIUM | Europa Europa" tvg-logo="https://cdn.mitvstatic.com/channels/ar_europa-europa_m.png" group-title="PREMIUM SD",PREMIUM | Europa Europa
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8168.m3u8
+#EXTINF:-1 tvg-id="Food Network USA - Eastern Feed-US" tvg-name="PREMIUM | Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png" group-title="PREMIUM SD",PREMIUM | Food Network
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8352.m3u8
+#EXTINF:-1 tvg-id="fox.mx" tvg-name="PREMIUM | Fox Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/150px-Fox_Channel_logo.svg.png" group-title="PREMIUM SD",PREMIUM | Fox Channel
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8409.m3u8
+#EXTINF:-1 tvg-id="foxlife.mx" tvg-name="PREMIUM | Fox Life" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/100px-Fox_life_logo.svg.png" group-title="PREMIUM SD",PREMIUM | Fox Life
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8403.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Fox Premium Action" tvg-logo="https://imagenes.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m1280054_Fox-premium-action-gris.png" group-title="PREMIUM SD",PREMIUM | Fox Premium Action
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8408.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Fox Premium Cinema" tvg-logo="https://imagenes.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m1280056_Fox-premium-cinema-gris.png" group-title="PREMIUM SD",PREMIUM | Fox Premium Cinema
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8407.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Fox Premium Classics" tvg-logo="https://imagenes.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m1280055_Fox-premium-classics-gris.png" group-title="PREMIUM SD",PREMIUM | Fox Premium Classics
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8406.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Fox Premium Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/FOX-Premium-Comedy-Logo-300x98.png" group-title="PREMIUM SD",PREMIUM | Fox Premium Comedy
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8405.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Fox Premium Family" tvg-logo="https://imagenes.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m1280051_Fox-premium-family-gris.png" group-title="PREMIUM SD",PREMIUM | Fox Premium Family
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8404.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Fox Premium Movies" tvg-logo="https://imagenes.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m1280057_Fox-premium-movies-gris.png" group-title="PREMIUM SD",PREMIUM | Fox Premium Movies
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8402.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Fox Premium Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Fox_Premium_Series_%28Latin_America%29_-_2017_Logo.png" group-title="PREMIUM SD",PREMIUM | Fox Premium Series
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8401.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/800px-FX_International_logo.svg.png" group-title="PREMIUM SD",PREMIUM | FX
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8420.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/100px-FX_Movies_logo.svg.png" group-title="PREMIUM SD",PREMIUM | FXM
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8411.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Gala TV" tvg-logo="https://pbs.twimg.com/profile_images/378800000361176511/a3216e93ea544cd1fb8b1350265ce906_400x400.png" group-title="PREMIUM SD",PREMIUM | Gala TV
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8363.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Glitz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="PREMIUM SD",PREMIUM | Glitz
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8362.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Golden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/496px-Logo_Golden_TV.svg.png" group-title="PREMIUM SD",PREMIUM | Golden
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8399.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Golden Edge" tvg-logo="https://cdn.mitvstatic.com/channels/mx_golden-edge_m.png" group-title="PREMIUM SD",PREMIUM | Golden Edge
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Golden Plus" tvg-logo="https://1.bp.blogspot.com/-C_iIRow9qr8/W6lpRYYveMI/AAAAAAAAAI8/X6bBU_V9hQgcWA42vT0USGz6-ky8JyXGgCPcBGAYYCw/s1600/goldenplus.png" group-title="PREMIUM SD",PREMIUM | Golden Plus
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8400.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="PREMIUM SD",PREMIUM | HBO
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8397.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/HBO2_logo.png/149px-HBO2_logo.png" group-title="PREMIUM SD",PREMIUM | HBO 2
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8396.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/135px-HBO_Family_logo.png" group-title="PREMIUM SD",PREMIUM | HBO Family
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8395.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" group-title="PREMIUM SD",PREMIUM | HBO Plus
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8394.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/135px-HBO_Signature.svg.png" group-title="PREMIUM SD",PREMIUM | HBO Signature
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8393.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | History" tvg-logo="https://cdn.mitvstatic.com/channels/mx_history_m.png" group-title="PREMIUM SD",PREMIUM | History
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8392.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="PREMIUM SD",PREMIUM | History 2
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8398.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Hola TV" tvg-logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png" group-title="PREMIUM SD",PREMIUM | Hola TV
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8343.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Isat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/140px-I.Sat_logo.svg.png" group-title="PREMIUM SD",PREMIUM | Isat
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Lifetime" tvg-logo="https://cdn.mitvstatic.com/channels/co_lifetime_m.png" group-title="PREMIUM SD",PREMIUM | Lifetime
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Mas Chic" tvg-logo="https://cdn.mitvstatic.com/channels/co_mas-chic_m.png" group-title="PREMIUM SD",PREMIUM | Mas Chic
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8349.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Max Up" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Maxup.png/150px-Maxup.png" group-title="PREMIUM SD",PREMIUM | Max Up
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8389.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Morbido TV" tvg-logo="https://morbido.tv/images/morbido-blanco-completo.png" group-title="PREMIUM SD",PREMIUM | Morbido TV
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8342.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | NatGeo" tvg-logo="https://cdn.mitvstatic.com/channels/mx_national-geographic_m.png" group-title="PREMIUM SD",PREMIUM | NatGeo
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8387.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | NatGeo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nat_Geo_Wild_Canada.svg/1200px-Nat_Geo_Wild_Canada.svg.png" group-title="PREMIUM SD",PREMIUM | NatGeo Wild
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8385.m3u8
+#EXTINF:-1 tvg-id="paramountchannel.mx" tvg-name="PREMIUM | Paramount Channel" tvg-logo="https://www.pngkey.com/png/detail/432-4329515_sundance-channel-logo-png-transparent-sundance-vacations.png" group-title="PREMIUM SD",PREMIUM | Paramount Channel
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8345.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/125px-Pasiones_Tv_logo.svg.png" group-title="PREMIUM SD",PREMIUM | Pasiones
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8344.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Sony" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/902px-Sony_Channel_logo.svg.png" group-title="PREMIUM SD",PREMIUM | Sony
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8383.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Space" tvg-logo="https://i.pinimg.com/originals/d6/6b/b5/d66bb576495837a6336a136895c0ee31.png" group-title="PREMIUM SD",PREMIUM | Space
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8382.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Studio Universal" tvg-logo="https://dl.dropboxusercontent.com/s/j8uwu2q0evpaqbw/studiouniversal.png" group-title="PREMIUM SD",PREMIUM | Studio Universal
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8381.m3u8
+#EXTINF:-1 tvg-id="sundancetv.mx" tvg-name="PREMIUM | Sundance Tv" tvg-logo="https://cdn.mitvstatic.com/channels/cl_sundance-channel_m.png" group-title="PREMIUM SD",PREMIUM | Sundance Tv
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Syfy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/170px-SYFY.svg.png" group-title="PREMIUM SD",PREMIUM | Syfy
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8358.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1920px-TBS_logo_2016.svg.png" group-title="PREMIUM SD",PREMIUM | TBS
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8380.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="PREMIUM SD",PREMIUM | TCM
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8379.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Telemundo Internacional" tvg-logo="https://multipress.com.mx/wp-content/uploads/2019/03/image003-6.png" group-title="PREMIUM SD",PREMIUM | Telemundo Internacional
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8378.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="PREMIUM SD",PREMIUM | TLC
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Tlnovelas" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="PREMIUM SD",PREMIUM | Tlnovelas
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8386.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png" group-title="PREMIUM SD",PREMIUM | TNT
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8376.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | TNT Series" tvg-logo="https://i.ibb.co/G504hFJ/descarga-10.png" group-title="PREMIUM SD",PREMIUM | TNT Series
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8375.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Tru TV" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tru-tv-hd_m.png" group-title="PREMIUM SD",PREMIUM | Tru TV
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8374.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Unicable" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f9/Unicable2007.png" group-title="PREMIUM SD",PREMIUM | Unicable
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Universal Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/150px-Universal_TV_logo.svg.png" group-title="PREMIUM SD",PREMIUM | Universal Channel
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8356.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/120px-Warner2018LA.png" group-title="PREMIUM SD",PREMIUM | Warner Channel
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8373.m3u8
