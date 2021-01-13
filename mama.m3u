@@ -9,5 +9,33 @@ http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/35579.m3u8
 http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/35582.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PANAMA | TELEMETRO" tvg-logo="http://www.paginasamarillasdepanama.com/uploads/logos/12670423_10153933526476018_7885418303008330708_n.jpg" group-title="PANAMA",PANAMA | TELEMETRO
 http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/35585.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PANAMA | TVN" tvg-logo="https://pbs.twimg.com/profile_images/1213219937826877443/WLWEZwyi_400x400.jpg" group-title="PANAMA",PANAMA | TVN
-http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/35587.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SALV | TRV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/TRV-El-Salvador-en-vivo-Online.png" group-title="EL SALVADOR",SALV | TRV
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/60915.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SALV | CANAL 19" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/sv-canal-19-meganoticias.jpg" group-title="EL SALVADOR",SALV | CANAL 19
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/60922.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SALV | CANAL 21" tvg-logo="https://2.bp.blogspot.com/-MRDAATlN2yU/WdQNwFkxhZI/AAAAAAAAAMA/yta8XEYoKkYJq9bErgikasxIeUv3nJkGQCLcBGAs//Canal-21-El-Salvador.png" group-title="EL SALVADOR",SALV | CANAL 21
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/60923.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SALV | CANAL 33" tvg-logo="https://www.freeetv.com/images/02_logo/canal_33_el_salvador.jpg" group-title="EL SALVADOR",SALV | CANAL 33
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/60916.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SALV | TELE 1" tvg-logo="https://www.kartal24.com/dosyalar/2017/08/tele1.jpg" group-title="EL SALVADOR",SALV | TELE 1
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/60925.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SALV | TV GETSEMANI" tvg-logo="https://static-media.streema.com/media/cache/15/d5/15d5ed25da94f8635b64a09e5ec1b977.jpg" group-title="EL SALVADOR",SALV | TV GETSEMANI
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/60927.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SALV | TVM" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Televisi%C3%B3n-Miguele%C3%B1a-en-vivo-Online-218x150.png" group-title="EL SALVADOR",SALV | TVM
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/60914.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SALV | TVO CANAL 23" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/sv-tv-oriental-canal-23-8803.jpg" group-title="EL SALVADOR",SALV | TVO CANAL 23
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/60921.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SALV | CANAL 57" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/sv-rtv-canal-57-apopa-5214.jpg" group-title="EL SALVADOR",SALV | CANAL 57
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/60917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SALV | WOW TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/ff8556d00486db576233d86dd2e52bef.png" group-title="EL SALVADOR",SALV | WOW TV
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/60918.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SALV | CANAL 2" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Canal-2-El-Salvador-en-vivo-Online.png" group-title="EL SALVADOR",SALV | CANAL 2
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/62940.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SALV | CANAL 4" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s86a1480785a470a0/image/i5587edb8682cbd25/version/1479234808/image.png" group-title="EL SALVADOR",SALV | CANAL 4
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/62941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SALV | CANAL 6" tvg-logo="https://cdn.mitvstatic.com/channels/sv_canal-6-nacional_m.png" group-title="EL SALVADOR",SALV | CANAL 6
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/62942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SALV | CANAL 8" tvg-logo="https://photos.wikimapia.org/p/00/02/95/17/45_big.jpg" group-title="EL SALVADOR",SALV | CANAL 8
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/62943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SALV | LOCOMOTION" tvg-logo="https://i.pinimg.com/236x/2a/9a/5c/2a9a5ca8099fd3df3d31e0958e5b9d7e.jpg" group-title="EL SALVADOR",SALV | LOCOMOTION
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/62946.m3u8
