@@ -31,8 +31,7 @@ http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/62940.m3u8
 http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/62941.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SALV | CANAL 6" tvg-logo="https://cdn.mitvstatic.com/channels/sv_canal-6-nacional_m.png" group-title="EL SALVADOR",SALV | CANAL 6
 http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/62942.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SALV | CANAL 8" tvg-logo="https://photos.wikimapia.org/p/00/02/95/17/45_big.jpg" group-title="EL SALVADOR",SALV | CANAL 8
-http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/62943.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SALV | LOCOMOTION" tvg-logo="https://i.pinimg.com/236x/2a/9a/5c/2a9a5ca8099fd3df3d31e0958e5b9d7e.jpg" group-title="EL SALVADOR",SALV | LOCOMOTION
 http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/62946.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD |  ANIMAL PLANET" tvg-logo="https://www.newslinereport.com/online/nota_animal-planet-renueva-su-imagen-en-america-latina.jpg" group-title="PREMIUM HD",PREMIUM HD |  ANIMAL PLANET
@@ -219,3 +218,41 @@ http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8357.m3u8
 http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8356.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/120px-Warner2018LA.png" group-title="PREMIUM SD",PREMIUM | Warner Channel
 http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/8373.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CR | TELETICA CANAL 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Teletica_Logo.png/266px-Teletica_Logo.png" group-title="COSTA RICA",COSTA RICA  |  TELETICA 7" group-title="COSTA RICA",CR | TELETICA CANAL 7
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/66922.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | Univision Telenovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Univision_tlnovelas_logo.png" group-title="PREMIUM SD",PREMIUM | Univision Telenovelas
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/69328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA | TNT" tvg-logo="https://www.freepnglogos.com/uploads/tnt-logo-png-27.png" group-title="USA",USA | TNT
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/69329.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | WWE" tvg-logo="https://pmcvariety.files.wordpress.com/2014/08/wwe-releases-new-logo.jpg?w=1000" group-title="DEPORTES HD",DEPORTES HD | WWE
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/69490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT USA | UNIVISION TELENOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Univision_tlnovelas_logo.png" group-title="LATINOS USA",LAT USA | UNIVISION TELENOVELAS
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/69499.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INF HD | STARZ KIDS & FAMILY" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starz_family.png" group-title="INFANTILES",INF HD | STARZ KIDS & FAMILY
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/69500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD | STARZ CINEMA" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/PREMIUM | STARZ_Cinema_200.jpg" group-title="PREMIUM HD",PREMIUM HD | STARZ CINEMA
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/69501.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD | STARZ COMEDY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PREMIUM | STARZ_Comedy_logo.svg/1200px-PREMIUM | STARZ_Comedy_logo.svg.png" group-title="PREMIUM HD",PREMIUM HD | STARZ COMEDY
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/69502.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD | STARZ EAST" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/PREMIUM | STARZ.png" group-title="PREMIUM HD",PREMIUM HD | STARZ EAST
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/69503.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD | STARZ EDGE" tvg-logo="http://globalentertainmentec.xyz:8000/images/d328877475dfd79db848e690efadc6c4.png" group-title="PREMIUM HD",PREMIUM HD | STARZ EDGE
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/69504.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD | STARZ ENCORE ACTION" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/PREMIUM | STARZ-encore-action.png" group-title="PREMIUM HD",PREMIUM HD | STARZ ENCORE ACTION
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/69505.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD | STARZ ENCORE" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/PREMIUM | STARZ-encore.png" group-title="PREMIUM HD",PREMIUM HD | STARZ ENCORE
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/69507.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD | STARZ ENCORE WESTERN" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/PREMIUM | STARZ-encore-westerns.png" group-title="PREMIUM HD",PREMIUM HD | STARZ ENCORE WESTERN
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/69509.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM HD | STARZ" tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDYzODU5NDYzMTA0MjUx/PREMIUM | STARZ_logoresizedjpg.jpg" group-title="PREMIUM HD",PREMIUM HD | STARZ
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/69510.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERU | CENTRAL TV" tvg-logo="http://tvlive.altervista.org/wp-content/uploads/2019/05/Central-TV-Chosica-250x180.png" group-title="PERU",PERU | CENTRAL TV
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/3358.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LAT USA | TELEMUNDO PUERTO RICO" tvg-logo="https://2.bp.blogspot.com/-_54DcgjwZJQ/Wk-bXK6bx5I/AAAAAAAA6Rc/qIT15cLxzqElJkNp53uWsGM6LfGpwK_dwCLcBGAs/s1600/Telemundo%2BPR%2BLive.png" group-title="LATINOS USA",LAT USA | TELEMUNDO PUERTO RICO
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/70016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CR | FU TV" tvg-logo="https://1.bp.blogspot.com/-fuiNMHxxBa8/Xj9K4sAvkaI/AAAAAAAANKs/JK__aGQCmXoUM-NLaoTKQoi9rl95olQCwCLcBGAsYHQ/s640/futv.png" group-title="COSTA RICA",COSTA RICA | FU TV" group-title="COSTA RICA",CR | FU TV
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/70173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CR | MULTIMEDIOS CANAL 8" tvg-logo="https://i.imgur.com/3Z4YvGD.png" group-title="COSTA RICA",COSTA RICA | Multimedios Canal 8" group-title="COSTA RICA",CR | MULTIMEDIOS CANAL 8
+http://globalentertainmentec.xyz:8000/live/Teletranx/qVjw8NLbN1/70175.m3u8
